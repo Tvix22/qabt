@@ -1,3 +1,4 @@
+name: ml4t
 channels:
   - ml4t
   - conda-forge
