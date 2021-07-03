@@ -1,4 +1,4 @@
-name: ml4t
+name: QABT
 channels:
   - ml4t
   - conda-forge
